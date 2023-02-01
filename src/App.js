@@ -84,7 +84,7 @@ function App() {
             <a
               onClick={() => activeLink1(true)}
               className={`${showLink1 ? "is-active" : ""}`}
-              href="https://intro-wow.vercel.app/"
+              href="https://wow-services.vercel.app/"
               target="_blank"
               data-section="#experience"
             >
