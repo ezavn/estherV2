@@ -102,7 +102,7 @@ function App() {
             <a
               onClick={() => activeLink3(true)}
               className={`${showLink3 ? "is-active" : ""}`}
-              href="https://drive.google.com/file/d/17VXDdRsMkRbEMZtSpisSSO3ryUbpXWIm/view"
+              href="https://drive.google.com/file/d/1RdLvgt-J4rRl9nCH3TQir_nTpBpiRHXS/view"
               target="_blank"
               data-section="#contact"
             >
